@@ -1,0 +1,196 @@
+/*FONDO*/
+body{
+  background-image: url(../img/fondo2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    
+   
+}
+
+.fondo{
+     background-image: url(../img/fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+/*BARRA DE NAVEGACIÓN*/
+#navegador{
+    background-color:black;
+    
+    
+}
+#navegador ul{
+    list-style-type: none;
+    margin: 0px;
+    padding:0px;
+    
+   
+}
+
+#navegador ul li{
+    display:inline-block;
+    
+}
+
+#navegador ul li a{
+    font-family: 'Quicksand', sans-serif;
+    text-decoration:none;
+    color:white;
+    margin:0px;
+    padding: 0px;
+    font-size:25px;
+    line-height: normal;
+    display: inline-block;
+    margin-left: 70px;
+    
+    
+    
+    
+}
+
+
+#navegador ul a:hover{
+    background-color:firebrick;
+    
+    
+    
+}
+#footer ul a:hover{
+    background-color:firebrick;
+    
+    
+    
+}
+
+.info{
+   font-family: 'Quicksand', sans-serif;
+}
+
+
+/*H1*/
+.titulo{
+    font-family: 'Neucha', cursive;
+    font-size: 50px;
+    color: black;
+    /*padding-top:0px;*/
+    padding-top: 30px;
+   
+    
+    
+}
+
+.nombre{
+    font-family: 'Neucha', cursive;
+    font-size: 40px;
+    color: black;
+    margin: auto
+    
+}
+
+/*JUMBOTRON*/
+.jumbotron{
+    margin-top: 2px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+/*PARRAFOS*/
+.parrafo{
+    font-family: 'Neucha', cursive;
+    font-size: 20px;
+    color: black;
+    background-color: aliceblue;
+    opacity: 0.8;
+    margin-bottom:auto;;
+   
+    
+}
+.ultimo{
+    padding-bottom: 50px;
+    
+}
+
+
+
+/*TEXTO E IMAGEN*/
+.bloque{
+    padding-top: 30px;
+    
+}
+
+
+
+/*IMAGEN*/
+.centrado{
+    margin: auto;
+    margin-left:auto;
+    margin-right: auto;
+    display:block;
+
+     
+}
+
+/*FORMULARIO*/
+
+.etiqueta{
+    font-family: 'Neucha', cursive;
+    font-size: 18px;
+    color: black;
+   
+}
+
+
+.formulario{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    
+}
+
+/*FOOTER*/
+#footer{ 
+    background-color: black;
+    margin: 0;
+    padding: 0;
+   
+}
+#footer p{ 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 10px;
+    color: white; 
+    margin-bottom: auto;
+    
+}
+
+#footer ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    
+   
+}
+
+#footer ul li{
+    display: inline-block;  
+    
+}
+
+#footer ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    float:left;
+    margin-bottom: auto;
+        
+    
+    
+}
+
+
